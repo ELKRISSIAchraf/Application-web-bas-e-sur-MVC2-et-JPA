@@ -48,6 +48,25 @@ nécessaire liées à une gestion spécifique.
 ![17](https://user-images.githubusercontent.com/101187429/204672417-bf14b7c7-cbf2-4184-8290-4f80d93d5a85.jpg)
 ![18](https://user-images.githubusercontent.com/101187429/204672418-57350998-221e-402e-a295-bbd633f1625f.jpg)
 
-#FRONTEND :
-
+# FRONTEND :
+## PAGE D'ACCUEIL :
+![19_1](https://user-images.githubusercontent.com/101187429/204673089-400bc280-6458-4f16-8621-32adea5da9b3.jpg)
+![19](https://user-images.githubusercontent.com/101187429/204673082-15ada0a3-eef5-408b-aeaf-a1c97a10a98a.jpg)
+![20](https://user-images.githubusercontent.com/101187429/204673058-b821828e-1465-4d34-9674-1b442b54d64f.jpg)
+## Consulter par Categorie :
+![21](https://user-images.githubusercontent.com/101187429/204673063-7d160690-85ec-4f76-ad35-c61aad3b8433.jpg)
+## REGISTER :
+![register](https://user-images.githubusercontent.com/101187429/204673081-1d7eb600-bfef-466f-aa8a-5467d93f96eb.jpg)
+## LOGIN :
+![22](https://user-images.githubusercontent.com/101187429/204673067-9d965a08-1494-4191-b937-c7e47a14c921.jpg)
+## Apres l'authentification  le nom de client s'affichera :
+![23](https://user-images.githubusercontent.com/101187429/204673070-9e608ad3-3d60-4dac-80bc-5f89e4ddc828.jpg)
+## Ajouter au panier :
+![24](https://user-images.githubusercontent.com/101187429/204673072-3272c675-9846-42b0-a5be-783aa32f515a.jpg)
+![25](https://user-images.githubusercontent.com/101187429/204673073-e3653344-1801-40cc-b647-c64cd8c2c31c.jpg)
+## Supprimer du panier :
+![26](https://user-images.githubusercontent.com/101187429/204673074-a9771fe4-d462-48af-9013-1af2a3d8e218.jpg)
+![27](https://user-images.githubusercontent.com/101187429/204673078-1979cc1f-4112-4877-807f-69c614e09bef.jpg)
+ ## LOGOUT :
+ ![28](https://user-images.githubusercontent.com/101187429/204673080-66b4998e-0a22-4fe2-ac3d-c8668bdffc55.jpg)
 
