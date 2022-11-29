@@ -29,8 +29,25 @@ nécessaire liées à une gestion spécifique.
 ### Ajouter Categorie :
 ![8](https://user-images.githubusercontent.com/101187429/204670965-cc97ffcc-56ea-4bef-a1df-4a59ae51bd97.jpg)
 ### Modifier Categorie :
-![10](https://user-images.githubusercontent.com/101187429/204670944-f07ddc2d-d01d-461d-b20a-c1680d6ccee9.jpg)
 ![9](https://user-images.githubusercontent.com/101187429/204670941-12e68dc9-dfd8-4112-948b-0db39e2ace35.jpg)
+![10](https://user-images.githubusercontent.com/101187429/204670944-f07ddc2d-d01d-461d-b20a-c1680d6ccee9.jpg)
 ### Supprimer Categorie :
+![11](https://user-images.githubusercontent.com/101187429/204672372-91ddee4d-ca0b-47a2-8a17-70f100b52af7.jpg)
+![12](https://user-images.githubusercontent.com/101187429/204672379-180f05ae-ce7d-4151-958e-ef9ff598c1a5.jpg)
+
+
+ ## Gestion des Users :
+ ### La liste des Users :
+![13](https://user-images.githubusercontent.com/101187429/204672419-f1288a7d-c5a1-4263-9550-a4e218badef2.jpg)
+### Ajouter User :
+![14](https://user-images.githubusercontent.com/101187429/204672420-65293f6d-ac98-46fc-bafb-17510384536a.jpg)
+### Modifier User :
+![15](https://user-images.githubusercontent.com/101187429/204672409-391459f4-ec63-4768-b09e-993a29a3c62f.jpg)
+![16](https://user-images.githubusercontent.com/101187429/204672414-2ade4090-3d72-4c8b-8ba1-6f099af9b954.jpg)
+### Supprimer User :
+![17](https://user-images.githubusercontent.com/101187429/204672417-bf14b7c7-cbf2-4184-8290-4f80d93d5a85.jpg)
+![18](https://user-images.githubusercontent.com/101187429/204672418-57350998-221e-402e-a295-bbd633f1625f.jpg)
+
+#FRONTEND :
 
 
