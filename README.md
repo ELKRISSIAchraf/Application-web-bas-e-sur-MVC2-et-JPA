@@ -9,10 +9,10 @@ nécessaire liées à une gestion spécifique.
 ![diagrammedeclasse](https://user-images.githubusercontent.com/101187429/204670042-ee09d37b-d468-4b36-b8c3-4eb8f3aa2f94.jpg)
 ## Schéma de base de données :
 ![Capture d’écran 2022-11-29 232553](https://user-images.githubusercontent.com/101187429/204670610-948fd44e-9442-4d77-96cd-c6ac0bd251aa.jpg)
- #BACKEND :
+ # BACKEND :
  ## S'authentifier en tant qu'Admin :
 ![1](https://user-images.githubusercontent.com/101187429/204670947-ba2f0355-a331-4bb3-9e80-e3d419df06db.jpg)
- ##Gestion des produits :
+ ## Gestion des produits :
  ### La liste des produits :
 ![2](https://user-images.githubusercontent.com/101187429/204670950-f9277cf8-f9cb-4024-b5bc-8ddb85dbbb1e.jpg)
 ### Ajouter produit :
@@ -22,5 +22,15 @@ nécessaire liées à une gestion spécifique.
 ![5](https://user-images.githubusercontent.com/101187429/204670960-7a8e600f-439b-44c7-b9ae-d80b05d89043.jpg)
 ### Supprimer Produit :
 ![6](https://user-images.githubusercontent.com/101187429/204670963-d5297b91-1663-47fe-95b0-d4ead1f6a964.jpg)
+
+ ## Gestion des Categories :
+ ### La liste des Categories :
 ![7](https://user-images.githubusercontent.com/101187429/204670964-aa5cc198-d1a1-45f2-8251-d4577747f513.jpg)
+### Ajouter Categorie :
+![8](https://user-images.githubusercontent.com/101187429/204670965-cc97ffcc-56ea-4bef-a1df-4a59ae51bd97.jpg)
+### Modifier Categorie :
+![10](https://user-images.githubusercontent.com/101187429/204670944-f07ddc2d-d01d-461d-b20a-c1680d6ccee9.jpg)
+![9](https://user-images.githubusercontent.com/101187429/204670941-12e68dc9-dfd8-4112-948b-0db39e2ace35.jpg)
+### Supprimer Categorie :
+
 
