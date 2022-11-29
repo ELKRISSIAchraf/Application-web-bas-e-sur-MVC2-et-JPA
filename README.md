@@ -8,3 +8,5 @@ nécessaire liées à une gestion spécifique.
 ## Diagramme de classe :
 ![diagrammedeclasse](https://user-images.githubusercontent.com/101187429/204670042-ee09d37b-d468-4b36-b8c3-4eb8f3aa2f94.jpg)
 ## Schéma de base de données :
+![Capture d’écran 2022-11-29 232553](https://user-images.githubusercontent.com/101187429/204670610-948fd44e-9442-4d77-96cd-c6ac0bd251aa.jpg)
+## Structure du projet :
